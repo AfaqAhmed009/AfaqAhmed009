@@ -1,17 +1,23 @@
 # About Me:
 Software Engineering student and aspiring Full-Stack Developer with experience in HTML, CSS, JavaScript, FastAPI, MySQL, Java, and C++. Passionate about designing and developing practical software solutions, web applications, and management systems that solve real-world problems. Skilled in database design, system analysis, and backend development, with a strong interest in software architecture, problem-solving, and creating efficient user-focused applications. Continuously learning modern development practices and exploring new technologies to build reliable, scalable, and impactful software.
 
+# Skills:
+- **Languages & Technologies: **HTML, CSS, JavaScript, FastAPI, MySQL, Java, C++
+- **Web Development:** Frontend Development, Backend Development, REST APIs, Responsive Design
+- **Software Engineering:** System Analysis, Database Design, Object-Oriented Programming, Software Development Life Cycle (SDLC), Software Requirements, Software Design
+- **Interested in**: system analysis, software architecture, problem-solving, and creating efficient, user-friendly software.
+  
+## Socials:
+<p align="left">
+  <a href="https://www.linkedin.com/in/afaqahmed-se/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
 
-## 🌐 Socials:
-[![Instagram] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Afaq Ahmed) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Afaq Ahmed) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Afaqrajpoot4677) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Afaq Ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afaq18664@gmail.com) 
+  <a href="https://x.com/afaqahmed98">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AfaqAhmed009&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AfaqAhmed009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AfaqAhmed009&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+# Goal:
+My goal is to grow as a Software Engineer by developing scalable and reliable applications that create real value for users. I am eager to enhance my expertise in full-stack development, software design, and database systems while collaborating on innovative projects and continuously learning new technologies. I aim to build a strong professional career in the software engineering industry and contribute to impactful real-world solutions.
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
