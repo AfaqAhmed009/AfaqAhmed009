@@ -2,7 +2,7 @@
 Software Engineering student and aspiring Full-Stack Developer with experience in HTML, CSS, JavaScript, FastAPI, MySQL, Java, and C++. Passionate about designing and developing practical software solutions, web applications, and management systems that solve real-world problems. Skilled in database design, system analysis, and backend development, with a strong interest in software architecture, problem-solving, and creating efficient user-focused applications. Continuously learning modern development practices and exploring new technologies to build reliable, scalable, and impactful software.
 
 # Skills:
-- **Languages & Technologies: **HTML, CSS, JavaScript, FastAPI, MySQL, Java, C++
+- **Languages & Technologies**: HTML, CSS, JavaScript, FastAPI, MySQL, Java, C++
 - **Web Development:** Frontend Development, Backend Development, REST APIs, Responsive Design
 - **Software Engineering:** System Analysis, Database Design, Object-Oriented Programming, Software Development Life Cycle (SDLC), Software Requirements, Software Design
 - **Interested in**: system analysis, software architecture, problem-solving, and creating efficient, user-friendly software.
