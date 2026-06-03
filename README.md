@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on PAW HEAVEN, an online pet selling and <br>adoption platform using HTML, CSS, JavaScript, PHP, and MySQL.<br>I’m looking to collaborate on web development projects, especially related to pet care,<br> e-commerce, or management systems.<br>I’m looking for help with backend development, database integration, <br>and improving website performance.<br>I’m currently learning MySQL, JavaScript, and full-stack web development.<br>Ask me about HTML, CSS, basic JavaScript, databases, and student-level software projects.<br>I enjoy building projects that solve real-life problems, especially related to animals and community services
+# About Me:
+Software Engineering student and aspiring Full-Stack Developer with experience in HTML, CSS, JavaScript, FastAPI, MySQL, Java, and C++. Passionate about designing and developing practical software solutions, web applications, and management systems that solve real-world problems. Skilled in database design, system analysis, and backend development, with a strong interest in software architecture, problem-solving, and creating efficient user-focused applications. Continuously learning modern development practices and exploring new technologies to build reliable, scalable, and impactful software.
 
 
 ## 🌐 Socials:
